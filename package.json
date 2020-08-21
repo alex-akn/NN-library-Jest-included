@@ -2,9 +2,13 @@
   "name": "unitjesttest",
   "version": "1.0.0",
   "description": "testing test jest",
-  "main": "sum.js",
+  "main": "scetch.js",
   "scripts": {
     "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alex-akn/NN-library-Jest-included.git"
   },
   "keywords": [
     "jest"
