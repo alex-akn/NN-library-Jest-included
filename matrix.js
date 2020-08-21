@@ -148,4 +148,6 @@ class Matrix{
     
 }
 
-module.exports = Matrix;
+if(typeof module !== undefined) {
+    module.exports = Matrix;
+}
