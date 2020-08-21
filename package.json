@@ -1,0 +1,17 @@
+{
+  "name": "unitjesttest",
+  "version": "1.0.0",
+  "description": "testing test jest",
+  "main": "sum.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "jest"
+  ],
+  "author": "alex",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^26.4.1"
+  }
+}
